@@ -1,2 +1,2 @@
-# CLARC Infinity Scripting
-Client- and Server-Scripting for the CLARC Infinity Platform.
+# CLARC Infinity Client Scripting
+Client-Scripting for the CLARC Infinity Platform.
